@@ -13,7 +13,7 @@ jobs:
         with:
           auth: ${{ secrets.GIST_TOKEN }}
           gist_url: https://gist.github.com/microside-mx/e993d66486eeea4bfccd268861b5939e
-          gist_title: $gistTitle
+          gist_title: 13-MPLAB-MotorDCL29-4550.c
           gist_description: Prácticas MPLABX
           github_file: Proyecto/PIC18F4550/13_Motor_Driver.X/main.c
           file_encoding: ISO-8859-1
